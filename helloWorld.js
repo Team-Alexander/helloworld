@@ -1,4 +1,3 @@
+console.log("бавимось з гітом");
 
-console.log("hello World");
-
-console.log("hello Frontender!");
+console.log("питання?");
